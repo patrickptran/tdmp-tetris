@@ -1,0 +1,42 @@
+Let's build a Tetris game together! I'll be covering how to build a Tetris clone from scratch using JavaScript and React. In this video I walk through what the game includes, what the different pieces involved are, and what systems we will need to implement.This is a great chance to build a complete game from scratch. It's also a good way to learn a lot of React fundamentals and how to organize code. Some features we'll use include, functional components, useState, useEffect, useCallback, memo, custom hooks, and keyboard input.
+
+
+
+Chapters
+0:00:00 What we're building
+0:00:19 Welcome
+0:01:00 Overview of the game pieces
+0:01:40 Creating a project on CodeSandbox
+0:02:10 Customize App
+0:04:02 Organizing with folders
+0:05:00 Component: Game
+0:09:20 Component: Menu
+0:16:08 Custom hook: useGameOver
+0:22:38 Component: Tetris
+0:27:44 Component: Board, data, logic
+0:37:55 Component: Board Cell
+0:46:47 Component: Game Stats
+0:54:29 Component: Previews, Preview, and Player data
+1:14:04 Render the player
+1:22:38 Celebrate! We've built the game pieces
+1:23:29 Overview of movement
+1:23:42 Input: Quit Game
+1:38:49 Input: Player rotation
+1:53:52 Input: Player movement
+2:06:49 Celebrate! We have a basic game
+2:07:37 Overview of drops: slow, fast, auto, ghost
+2:08:24 Custom hook: useInterval
+2:09:54 Implement simple auto-drop
+2:11:00 Input: Player drop with speed by level
+2:19:25 Input: Player drop with pause, resume
+2:20:21 Input: Player drop with interval resets
+2:21:55 Demo of drop!
+2:23:03 Celebrate and recap!
+2:23:54 Input: Player fast drop
+2:31:21 Input: Player fast drop review
+2:31:44 Input: Player drop style fix
+2:33:08 Overview of row clearing
+2:33:30 Implement row clearing
+2:39:15 Demo of row clearning
+2:41:06 More demos
+2:41:42 Congratulations, you did it!
